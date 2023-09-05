@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I’m a Social and Data Scientist who has spent the past 5 years leading analytics projects to help Fortune 500 companies and multinational corporations make informed decisions.
+
+I use programming languages, statistical methods, and social science principles to make sense of the world, and I specialize in finding patterns within intricate data and building partnerships to boost business strategies.
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 <!--
 **macuriels/macuriels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
