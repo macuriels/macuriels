@@ -1,4 +1,6 @@
-### Welcome
+### Welcome 👋
+
+---
 
 My name is Miguel. I’m a Social and Data Scientist who has spent the past 5 years leading analytics projects to help Fortune 500 companies and multinational corporations make informed decisions.
 
