@@ -6,7 +6,7 @@ My name is Miguel. I’m a Social and Data Scientist who has spent the past 5 ye
 
 I use programming languages, statistical methods, and social science principles to make sense of the world, and I specialize in finding patterns within intricate data and building partnerships to boost business strategies.
 
-Continue scrolling to view some of my past projects, and feel free to connect with me on LinkedIn.
+Click on the links below to view some of my past projects, and feel free to connect with me on LinkedIn.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ](https://macuriels.com/)
