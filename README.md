@@ -2,9 +2,9 @@
 
 ---
 
-My name is Miguel. I’m a social and data Scientist who has spent the past 6 years leading analytics projects to help Fortune 500 companies and multinational corporations make informed decisions.
+My name is Miguel. I’m a Social and Data Scientist working at the intersection of technology, data, and human behavior.
 
-I use programming languages, statistical methods, and social science principles to make sense of the world, and I specialize in finding patterns within intricate data and building partnerships to advance business strategies.
+My toolkit includes leveraging R, Python and machine learning to analyze social science datasets and distill insights. 
 
 Click on the links below to view some of my past projects, and feel free to connect with me on LinkedIn.
 
